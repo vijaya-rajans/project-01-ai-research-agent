@@ -2,7 +2,7 @@
 
 **Autonomous business intelligence. Any company. Any topic. Instant structured report.**
 
-Built by [Soorya S.V.](https://linkedin.com/in/sooryasv) | [Vaixus Technologies](https://vaixus.tech)
+Built by [VIJAYARAJAN S | [Vaixus Technologies](https://vaixus.tech)
 
 ---
 
