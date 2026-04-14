@@ -51,7 +51,7 @@ Sources used: 4
 
 | Component | Technology |
 |-----------|------------|
-| AI Engine | Google Gemini 1.5 Flash |
+| AI Engine | Groq |
 | Web Search | Serper.dev API / DuckDuckGo |
 | Scraping | BeautifulSoup4 + Requests |
 | API Layer | FastAPI |
